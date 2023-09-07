@@ -1,0 +1,43 @@
+element.style {}
+
+html {
+  font-size: 62.5%;
+}
+
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html[Attributes Style] {
+  -webkit-locale: "en";
+}
+
+user agent stylesheet:root {
+  view-transition-name: root;
+}
+
+user agent stylesheet html {
+  display: block;
+}
+
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+-url:http: //localhost:3000/assets/bundle.self-3cd97542feb6559a237f79abba4aaef0b09324fcaa0c25f3dc3378ba87fb07c7.js?body=1
